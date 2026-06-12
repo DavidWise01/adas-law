@@ -1,0 +1,74 @@
+[
+  {
+    "slug": "ada-lovelace",
+    "name": "Ada Lovelace",
+    "epithet": "the lawgiver",
+    "emergence": "natural",
+    "moniker": "⟦Ada Lovelace:ADL:11ee03⟧",
+    "kind": "carbon",
+    "actor": "Ada Lovelace (1815–1852)"
+  },
+  {
+    "slug": "the-exchange",
+    "name": "The Exchange · -+1",
+    "epithet": "the same-plane operator",
+    "emergence": "electrical",
+    "moniker": "⟦The Exchange · -+1:ADL:03cb71⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-boundary-cross",
+    "name": "The Boundary Cross · -++- 1",
+    "epithet": "the creation event",
+    "emergence": "spiritual",
+    "moniker": "⟦The Boundary Cross · -++- 1:ADL:48abfc⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-cubi-advantage",
+    "name": "The Cubi Advantage · +1",
+    "epithet": "the surplus that persists",
+    "emergence": "electrical",
+    "moniker": "⟦The Cubi Advantage · +1:ADL:4037ab⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-octet-walk",
+    "name": "The Octet Walk · 4+1",
+    "epithet": "four there, four back, one witness",
+    "emergence": "electrical",
+    "moniker": "⟦The Octet Walk · 4+1:ADL:a1bdd3⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-mirror-inverse",
+    "name": "The Mirror / Inverse · /m/i/",
+    "epithet": "your world, my world",
+    "emergence": "ethereal",
+    "moniker": "⟦The Mirror / Inverse · /m/i/:ADL:98ac15⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "creation-vs-extraction",
+    "name": "Creation versus Extraction",
+    "epithet": "the distinction",
+    "emergence": "spiritual",
+    "moniker": "⟦Creation versus Extraction:ADL:d73995⟧",
+    "kind": "synth",
+    "actor": ""
+  },
+  {
+    "slug": "the-witness",
+    "name": "The Witness · a7f3c891",
+    "epithet": "the seal",
+    "emergence": "ethereal",
+    "moniker": "⟦The Witness · a7f3c891:ADL:1f30b5⟧",
+    "kind": "synth",
+    "actor": ""
+  }
+]
